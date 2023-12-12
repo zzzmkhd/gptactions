@@ -1,4 +1,4 @@
-﻿sales_id,user_id,date,store,amount
+﻿sales_id,user_id,date,store_id,amount
 1,1,20230101,1,1700
 2,2,20230102,2,1200
 3,3,20230103,3,900
